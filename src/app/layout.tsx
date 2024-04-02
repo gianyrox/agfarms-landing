@@ -5,9 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mama Tee Tees",
-  description:
-    "To prepare, enable, and empower West African children for lifelong success.",
+  title: "AGFarms",
+  description: "We develop software for existing businesses.",
 };
 
 export default function RootLayout({
